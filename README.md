@@ -13,7 +13,8 @@
 	  ➢ JavaScript		 ➢ TensorFlow			 ➢ PyQt5
 	  ➢ Bootstrap		 ➢ JSON			 ➢ Git
   	  ➢ Postgresql		 ➢ Postman			 ➢ Playwright
-     	  ➢ Robot Framework     ➢ Selenium			 ➢ BeautifulSoup
+     	  ➢ Robot Framework     	
+	  ➢ Selenium			 ➢ BeautifulSoup
 
 
    	
