@@ -11,7 +11,10 @@
 	  ➢ HTML5		 ➢ NoSQL			 ➢ Matplotlib
 	  ➢ CSS3		 ➢ MongoDB			 ➢ Seaborn
 	  ➢ JavaScript		 ➢ TensorFlow			 ➢ PyQt5
-	  ➢ Bootstrap		 ➢ JSON			 ➢ Git  
+	  ➢ Bootstrap		 ➢ JSON			 ➢ Git
+  	  ➢ Postgresql		 ➢ Postman			 ➢ Playwright
+     	  ➢ Robot Framework     ➢ Selenium			 ➢ BeautifulSoup
+   	
 <!--
 **ahmetvahit/ahmetvahit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
